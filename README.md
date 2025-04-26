@@ -1,4 +1,5 @@
 Statistics for Data Science and Machine Learning (IBM - Coursera)
+
 Welcome to my project repository!
 This repo documents my learning journey through the Statistics for Data Science and Machine Learning course offered by IBM on Coursera.
 
@@ -59,4 +60,4 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/SamedyHUNX/statistics-for-data-science-and-machine-learning/tree/master
